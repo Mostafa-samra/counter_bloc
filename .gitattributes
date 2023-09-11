@@ -1,2 +1,2 @@
-*.* linguist-detectable=dart
-*.xml linguist-detectable=false
+*.dart linguist-detectable=true
+*.* linguist-detectable=false
